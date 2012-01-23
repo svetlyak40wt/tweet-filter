@@ -1,0 +1,4 @@
+*.pickle
+.*.swp
+*.pyc
+env

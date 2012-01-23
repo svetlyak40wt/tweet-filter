@@ -1,0 +1,6 @@
+#numpy==1.6.1
+#scipy==0.10.0
+#milk==0.4.2
+#pdbpp==0.7.2
+nltk==2.0.1rc3
+twitter==1.7.2
